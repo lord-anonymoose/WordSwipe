@@ -7,32 +7,19 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		8E6EE1212DFE0CF100CDCCB6 /* WordSwipe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WordSwipe.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8E3364252E72F7C0000EC14A /* WordSwipe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WordSwipe.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		8E6EE12E2DFE0CF300CDCCB6 /* Exceptions for "WordSwipe" folder in "WordSwipe" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = 8E6EE1202DFE0CF100CDCCB6 /* WordSwipe */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		8E6EE1232DFE0CF100CDCCB6 /* WordSwipe */ = {
+		8E3364272E72F7C0000EC14A /* WordSwipe */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				8E6EE12E2DFE0CF300CDCCB6 /* Exceptions for "WordSwipe" folder in "WordSwipe" target */,
-			);
 			path = WordSwipe;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		8E6EE11E2DFE0CF100CDCCB6 /* Frameworks */ = {
+		8E3364222E72F7C0000EC14A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -42,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		8E6EE1182DFE0CF100CDCCB6 = {
+		8E33641C2E72F7C0000EC14A = {
 			isa = PBXGroup;
 			children = (
-				8E6EE1232DFE0CF100CDCCB6 /* WordSwipe */,
-				8E6EE1222DFE0CF100CDCCB6 /* Products */,
+				8E3364272E72F7C0000EC14A /* WordSwipe */,
+				8E3364262E72F7C0000EC14A /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		8E6EE1222DFE0CF100CDCCB6 /* Products */ = {
+		8E3364262E72F7C0000EC14A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8E6EE1212DFE0CF100CDCCB6 /* WordSwipe.app */,
+				8E3364252E72F7C0000EC14A /* WordSwipe.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		8E6EE1202DFE0CF100CDCCB6 /* WordSwipe */ = {
+		8E3364242E72F7C0000EC14A /* WordSwipe */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8E6EE12F2DFE0CF300CDCCB6 /* Build configuration list for PBXNativeTarget "WordSwipe" */;
+			buildConfigurationList = 8E3364302E72F7C1000EC14A /* Build configuration list for PBXNativeTarget "WordSwipe" */;
 			buildPhases = (
-				8E6EE11D2DFE0CF100CDCCB6 /* Sources */,
-				8E6EE11E2DFE0CF100CDCCB6 /* Frameworks */,
-				8E6EE11F2DFE0CF100CDCCB6 /* Resources */,
+				8E3364212E72F7C0000EC14A /* Sources */,
+				8E3364222E72F7C0000EC14A /* Frameworks */,
+				8E3364232E72F7C0000EC14A /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				8E6EE1232DFE0CF100CDCCB6 /* WordSwipe */,
+				8E3364272E72F7C0000EC14A /* WordSwipe */,
 			);
 			name = WordSwipe;
 			packageProductDependencies = (
 			);
 			productName = WordSwipe;
-			productReference = 8E6EE1212DFE0CF100CDCCB6 /* WordSwipe.app */;
+			productReference = 8E3364252E72F7C0000EC14A /* WordSwipe.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		8E6EE1192DFE0CF100CDCCB6 /* Project object */ = {
+		8E33641D2E72F7C0000EC14A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
-				LastSwiftUpdateCheck = 1640;
-				LastUpgradeCheck = 1640;
+				LastSwiftUpdateCheck = 2600;
+				LastUpgradeCheck = 2600;
 				TargetAttributes = {
-					8E6EE1202DFE0CF100CDCCB6 = {
-						CreatedOnToolsVersion = 16.4;
+					8E3364242E72F7C0000EC14A = {
+						CreatedOnToolsVersion = 26.0;
 					};
 				};
 			};
-			buildConfigurationList = 8E6EE11C2DFE0CF100CDCCB6 /* Build configuration list for PBXProject "WordSwipe" */;
+			buildConfigurationList = 8E3364202E72F7C0000EC14A /* Build configuration list for PBXProject "WordSwipe" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 8E6EE1182DFE0CF100CDCCB6;
+			mainGroup = 8E33641C2E72F7C0000EC14A;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 8E6EE1222DFE0CF100CDCCB6 /* Products */;
+			productRefGroup = 8E3364262E72F7C0000EC14A /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				8E6EE1202DFE0CF100CDCCB6 /* WordSwipe */,
+				8E3364242E72F7C0000EC14A /* WordSwipe */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		8E6EE11F2DFE0CF100CDCCB6 /* Resources */ = {
+		8E3364232E72F7C0000EC14A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -128,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		8E6EE11D2DFE0CF100CDCCB6 /* Sources */ = {
+		8E3364212E72F7C0000EC14A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -138,67 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		8E6EE1302DFE0CF300CDCCB6 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = WordSwipe/WordSwipe.entitlements;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = M4YMDNRFZP;
-				ENABLE_PREVIEWS = YES;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = WordSwipe/Info.plist;
-				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
-				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Filipp-Lazarev.WordSwipe";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		8E6EE1312DFE0CF300CDCCB6 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = WordSwipe/WordSwipe.entitlements;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = M4YMDNRFZP;
-				ENABLE_PREVIEWS = YES;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = WordSwipe/Info.plist;
-				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
-				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Filipp-Lazarev.WordSwipe";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Release;
-		};
-		8E6EE1322DFE0CF300CDCCB6 /* Debug */ = {
+		8E33642E2E72F7C1000EC14A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -233,7 +160,6 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = M4YMDNRFZP;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
@@ -251,7 +177,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -262,7 +188,7 @@
 			};
 			name = Debug;
 		};
-		8E6EE1332DFE0CF300CDCCB6 /* Release */ = {
+		8E33642F2E72F7C1000EC14A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -297,7 +223,6 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = M4YMDNRFZP;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
@@ -309,7 +234,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
@@ -319,28 +244,88 @@
 			};
 			name = Release;
 		};
+		8E3364312E72F7C1000EC14A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Filipp-Lazarev.WordSwipe";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		8E3364322E72F7C1000EC14A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Filipp-Lazarev.WordSwipe";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		8E6EE11C2DFE0CF100CDCCB6 /* Build configuration list for PBXProject "WordSwipe" */ = {
+		8E3364202E72F7C0000EC14A /* Build configuration list for PBXProject "WordSwipe" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8E6EE1322DFE0CF300CDCCB6 /* Debug */,
-				8E6EE1332DFE0CF300CDCCB6 /* Release */,
+				8E33642E2E72F7C1000EC14A /* Debug */,
+				8E33642F2E72F7C1000EC14A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8E6EE12F2DFE0CF300CDCCB6 /* Build configuration list for PBXNativeTarget "WordSwipe" */ = {
+		8E3364302E72F7C1000EC14A /* Build configuration list for PBXNativeTarget "WordSwipe" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8E6EE1302DFE0CF300CDCCB6 /* Debug */,
-				8E6EE1312DFE0CF300CDCCB6 /* Release */,
+				8E3364312E72F7C1000EC14A /* Debug */,
+				8E3364322E72F7C1000EC14A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 8E6EE1192DFE0CF100CDCCB6 /* Project object */;
+	rootObject = 8E33641D2E72F7C0000EC14A /* Project object */;
 }
