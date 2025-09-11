@@ -1,0 +1,122 @@
+{
+  "fill" : {
+    "automatic-gradient" : "extended-srgb:0.00000,0.47843,1.00000,1.00000"
+  },
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "hidden" : false,
+          "image-name" : "crossIcon.png",
+          "name" : "crossIcon",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              -181.61303119054372,
+              353.60634801688883
+            ]
+          }
+        },
+        {
+          "hidden" : false,
+          "image-name" : "TickIcon.png",
+          "name" : "TickIcon",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              302.2424054358758,
+              259.04524365190895
+            ]
+          }
+        },
+        {
+          "hidden" : false,
+          "image-name" : "FirstCard.png",
+          "name" : "FirstCard",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "hidden" : false,
+          "image-name" : "Squircle2.png",
+          "name" : "Squircle2",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "hidden" : false,
+          "image-name" : "Squircle3.png",
+          "name" : "Squircle3",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "hidden" : false,
+          "image-name" : "Squircle4.png",
+          "name" : "Squircle4",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "hidden" : false,
+          "image-name" : "Squircle5.png",
+          "name" : "Squircle5",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "hidden" : false,
+          "image-name" : "Squircle6.png",
+          "name" : "Squircle6",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              0,
+              0
+            ]
+          }
+        }
+      ],
+      "name" : "Cards",
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}

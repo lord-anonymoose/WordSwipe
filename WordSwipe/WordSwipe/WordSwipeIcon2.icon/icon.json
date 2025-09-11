@@ -1,0 +1,106 @@
+{
+  "fill" : {
+    "automatic-gradient" : "extended-srgb:0.00000,0.47843,1.00000,1.00000"
+  },
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "hidden" : false,
+          "image-name" : "crossIcon.png",
+          "name" : "crossIcon",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              -225,
+              300
+            ]
+          }
+        },
+        {
+          "hidden" : false,
+          "image-name" : "TickIcon.png",
+          "name" : "TickIcon",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              280,
+              300
+            ]
+          }
+        },
+        {
+          "image-name" : "FirstCard.png",
+          "name" : "FirstCard",
+          "position" : {
+            "scale" : 1.2,
+            "translation-in-points" : [
+              20,
+              0
+            ]
+          }
+        },
+        {
+          "image-name" : "FirstCard.png",
+          "name" : "SecondCard",
+          "position" : {
+            "scale" : 1.2,
+            "translation-in-points" : [
+              10,
+              0
+            ]
+          }
+        },
+        {
+          "image-name" : "FirstCard.png",
+          "name" : "ThirdCard",
+          "position" : {
+            "scale" : 1.2,
+            "translation-in-points" : [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "image-name" : "FirstCard.png",
+          "name" : "FourthCard",
+          "position" : {
+            "scale" : 1.2,
+            "translation-in-points" : [
+              -10,
+              0
+            ]
+          }
+        },
+        {
+          "hidden" : true,
+          "image-name" : "Стрелочка под углом.png",
+          "name" : "Стрелочка под углом",
+          "position" : {
+            "scale" : 0.6,
+            "translation-in-points" : [
+              29.6022358812736,
+              157.68595024866968
+            ]
+          }
+        }
+      ],
+      "name" : "Cards",
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}

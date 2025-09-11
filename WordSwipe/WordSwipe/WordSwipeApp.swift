@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import SwiftData
 
 @main
 struct WordSwipeApp: App {
@@ -13,5 +14,6 @@ struct WordSwipeApp: App {
         WindowGroup {
             ContentView()
         }
+        .modelContainer(for: [Word.self, Stack.self])
     }
 }
